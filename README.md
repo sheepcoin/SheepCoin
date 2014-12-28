@@ -1,7 +1,7 @@
 SheepCoin(羊币) Core integration/staging tree
 =====================================
 
-http://www.yykj.com
+http://www.yykj.cc
 
 Copyright (c) 2014 Sheepcoin Core Developers
 
@@ -11,7 +11,7 @@ What is Sheepcoin?
 Sheepcoin is an Based bitcoin virtual currency.
 
 For more information, as well as an immediately useable, binary version of
-the Sheepcoin Core software, see http://www.yykj.com/download.
+the Sheepcoin Core software, see http://www.yykj.cc/download.
 
 License
 -------
